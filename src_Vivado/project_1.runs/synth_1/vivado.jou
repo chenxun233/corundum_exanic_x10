@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Nov  6 20:46:23 2025
+# Process ID: 3440841
+# Current directory: /home/chenxun/Documents/Project/corundum_with_host/src_Vivado/project_1.runs/synth_1
+# Command line: vivado -log fpga.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fpga.tcl
+# Log file: /home/chenxun/Documents/Project/corundum_with_host/src_Vivado/project_1.runs/synth_1/fpga.vds
+# Journal file: /home/chenxun/Documents/Project/corundum_with_host/src_Vivado/project_1.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source fpga.tcl -notrace

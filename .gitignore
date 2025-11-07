@@ -1,24 +1,10 @@
-*~
-*.lxt
-*.pyc
-*.vvp
-*.kate-swp
-
-.*
-!.gitignore
-
-# Kernel
-*.o
-*.cmd
-*.mod
-*.mod.c
-Module.symvers
-modules.order
-*.ko
-
-# Vivado
-*.jou
-*.log
-*.str
-
-tags
+src_driver/CMakeFiles/
+src_driver/*.o
+src_driver/*.ko
+src_driver/*.cmd
+src_driver/CMakeCache.txt
+src_driver/cmake_install.cmake
+src_driver/*.symvers
+src_driver/*.order
+src_driver/*.mod
+src_userspace_tool/build/
