@@ -1,4 +1,4 @@
-Not yet finished
+This fork gives you a clear relationship of each part in the project corundum. Each part are separated.
 
 src_driver is the path for all the driver files.
 
