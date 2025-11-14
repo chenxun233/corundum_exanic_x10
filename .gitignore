@@ -8,3 +8,4 @@ src_driver/*.symvers
 src_driver/*.order
 src_driver/*.mod
 src_userspace_tool/build/
+src_userspace_driver/build/
