@@ -1,11 +1,3 @@
-src_driver/CMakeFiles/
-src_driver/*.o
-src_driver/*.ko
-src_driver/*.cmd
-src_driver/CMakeCache.txt
-src_driver/cmake_install.cmake
-src_driver/*.symvers
-src_driver/*.order
-src_driver/*.mod
 src_userspace_tool/build/
 src_userspace_driver/build/
+src_Vivado/
