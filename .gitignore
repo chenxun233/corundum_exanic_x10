@@ -1,3 +1,8 @@
-src_userspace_tool/build/
+src_userspace_tool/src_mqnic-fw/build
+src_userspace_tool/src_mqnic-dump/build
+src_userspace_tool/src_mqnic-config/build
+src_userspace_tool/src_mqnic-bmc/build
+src_userspace_tool/src_mqnic-xcvr/build
+src_userspace_tool/src_perout/build
 src_userspace_driver/build/
 src_Vivado/
